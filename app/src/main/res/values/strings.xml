@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">WonderfulPlaces</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="iglesia_valladolid">Iglesia de San Gervasio</string>
+    <string name="ciudad_valladolid">Valladolid, Yucatán</string>
+    <string name="descripcion_iglesia_valladolid">La iglesia de San Gervasio está en el centro histórico de la ciudad de Valladolid, a un costado de la plaza principal.</string>
+    <string name="monumento_patria_merida">Monumento a la Patria</string>
+    <string name="ciudad_merida">Mérida, Yucatán</string>
+    <string name="descripcion_monumento_merida">El monumento a la Patria se encuentra en el Paseo de Montejo, la avenida más importante de Mérida.</string>
+    <string name="centro_campeche">Centro histórico de San Francisco</string>
+    <string name="ciudad_campeche">San Francisco de Campeche, Campeche</string>
+    <string name="descripcion_centro_campeche">Se encuentra la ciudad de San Francisco de Campeche, el centro histórico aún conserva mucha arquitectura colonial española.</string>
+    <string name="museo_maya_merida">Gran Museo del Mundo Maya</string>
+    <string name="descripcion_museo_maya_merida">El museo se encuentra ubicado a un costado del Centro de Convenciones Yucatán Siglo XXI, dedicado a las culturas mayas históricas y presentes.</string>
+</resources>
